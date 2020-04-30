@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* House of Leaves
+* The Left Hand of Darkness
+* Chatot
