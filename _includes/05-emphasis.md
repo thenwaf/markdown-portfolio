@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I am *hella* swole.
+* I know _quite_ a bit about composing, arranging and producing music.
